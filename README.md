@@ -6,7 +6,7 @@ A simple HTML, CSS, and JavaScript project that presents a tribute to Itachi Uch
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png) <!-- Optional: Replace with your image -->
+![Screenshot](screenshot.png)
 
 ---
 
