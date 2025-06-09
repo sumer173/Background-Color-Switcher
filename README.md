@@ -31,4 +31,4 @@ A simple HTML, CSS, and JavaScript project that presents a tribute to Itachi Uch
 
 1. **Download or Clone this Repository**
    ```bash
-   git clone https://github.com/your-username/itachi-tribute-page.git
+   git clone https://github.com/sumer173/itachi-tribute-page.git
